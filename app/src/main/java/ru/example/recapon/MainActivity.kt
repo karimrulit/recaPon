@@ -25,7 +25,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(binding.root)
         init()
     }
-
+//wdc
     private fun init() {
         binding.apply {
             listPon.layoutManager = LinearLayoutManager(this@MainActivity)
